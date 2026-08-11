@@ -116,7 +116,7 @@ connecthub/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Avinash3132/CodeAlpha_SocialMedia_Platform.git
+git clone https://github.com/Avinash3132/Connecthub.git
 cd connecthub
 ```
 
